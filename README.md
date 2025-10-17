@@ -19,11 +19,6 @@ The goal of PRBD is to enable automated **rice variety recognition**, quality as
 - **Publisher:** East West University, Bangladesh  
 - **Dataset Link:** [Mendeley Data](https://data.mendeley.com/datasets/sfp9s96prh/1)  
 
----
-
-
-
----
 
 ## 🧠 Methods / Applications
 
