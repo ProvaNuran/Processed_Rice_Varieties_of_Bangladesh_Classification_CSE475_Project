@@ -21,12 +21,7 @@ The goal of PRBD is to enable automated **rice variety recognition**, quality as
 
 ---
 
-## 🗂 Folder Structure
 
-
-**Notes:**  
-- `Variety_X` folders contain images of a specific rice variety.  
-- Augmented images are created to enhance machine learning performance.
 
 ---
 
