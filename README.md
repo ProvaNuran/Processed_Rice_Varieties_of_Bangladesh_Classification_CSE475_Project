@@ -17,7 +17,7 @@ The goal of PRBD is to enable automated **rice variety recognition**, quality as
 - **Dataset Link:** [Mendeley Data](https://data.mendeley.com/datasets/sfp9s96prh/1)  
 
 
-## 🧠 Methods / Applications
+##  Methods / Applications
 
 The dataset can be used for:  
 - **Supervised Learning:** Training CNNs (NasNetMobile,ConvNeXt-T,InceptionV3,ResNet50,DenseNet121) for rice variety classification.  
@@ -26,7 +26,7 @@ The dataset can be used for:
 
 
 
-## 📊 Example Results
+## Example Results
 
 - Models trained on PRBD images can achieve high accuracy in rice variety classification.  
 - Self-supervised methods provide robust features that generalize well to unseen rice varieties.  
@@ -34,7 +34,7 @@ The dataset can be used for:
 
 
 
-## 🚀 Future Work
+##  Future Work
 
 - Real-time deployment of rice variety recognition systems for factories or mobile devices.  
 - Integration with smart agriculture platforms for quality monitoring.  
