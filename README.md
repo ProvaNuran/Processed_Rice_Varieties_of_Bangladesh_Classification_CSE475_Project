@@ -23,7 +23,7 @@ The goal of PRBD is to enable automated **rice variety recognition**, quality as
 ## 🧠 Methods / Applications
 
 The dataset can be used for:  
-- **Supervised Learning:** Training CNNs (ResNet, EfficientNet, VGG) for rice variety classification.  
+- **Supervised Learning:** Training CNNs (NasNetMobile,ConvNeXt-T,InceptionV3,ResNet50,DenseNet121) for rice variety classification.  
 - **Feature Extraction & Embedding:** Using self-supervised learning methods (SimCLR, BYOL) to learn rich features from images.  
 - **Quality Assessment:** Automated detection of impurities, broken grains, and size analysis.  
 
