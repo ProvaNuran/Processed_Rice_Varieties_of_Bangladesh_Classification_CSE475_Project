@@ -1,12 +1,12 @@
-# 🌾 PRBD: Microscopic Images of Different Processed Rice Varieties of Bangladesh
+#  PRBD: Microscopic Images of Different Processed Rice Varieties of Bangladesh
 
 PRBD is a high-resolution microscopic image dataset of 10 different processed rice varieties cultivated in Bangladesh. It is designed for research in **computer vision**, **agriculture**, and **food science**.
 
-## 🎯 Project Goal
+##  Project Goal
 The goal of PRBD is to enable automated **rice variety recognition**, quality assessment, and analysis using machine learning and deep learning techniques. Researchers can leverage these microscopic images to develop models for food authentication, agricultural research, and smart farming solutions.
 
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
 - **Total Images:** 2,000 original microscopic images  
 - **Augmented Images:** 8,000 images (rotations, flips, and other transformations)  
@@ -41,7 +41,7 @@ The dataset can be used for:
 - Multi-modal analysis combining rice images with other features (e.g., chemical composition, origin) for deeper research.
 
 
-## 📜 References
+##  References
 
 - Dataset published by East West University, Bangladesh  
 - License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
